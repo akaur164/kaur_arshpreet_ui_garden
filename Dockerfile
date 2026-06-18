@@ -1,3 +1,4 @@
+# Assignment 12 Dockerfile
 FROM node:20-alpine
 
 WORKDIR /kaur_arshpreet_ui_garden
